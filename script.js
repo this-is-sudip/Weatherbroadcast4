@@ -3,7 +3,9 @@
 // ============================================================
 const YOUR_SHEETS_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ40Sg6V8T4Ekp28JCBHgorNUI4cWVdm4S8JLgqDXfOGlz-qXaPEveeZzGnwNOsl5GL7f__oYiUCclT/pub?output=csv";
 const USE_DEMO = false;  // Set to false because you have a real sheet now
-
+// DEBUG CODE - Add this line
+console.log("USE_DEMO is set to:", USE_DEMO);
+console.log("CSV URL is:", YOUR_SHEETS_CSV_URL);
 // Set current date
 function setCurrentDate() {
     const days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
