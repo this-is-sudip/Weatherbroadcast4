@@ -1,7 +1,7 @@
 // ============================================================
 // CONFIGURATION: YOUR GOOGLE SHEETS PUBLISHED CSV URL
 // ============================================================
-const YOUR_SHEETS_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ40Sg6V8T4Ekp28JCBHgorNUI4cWVdm4S8JLgqDXfOGlz-qXaPEveeZzGnwNOsl5GL7f__oYiUCclT/pub?output=csv";
+const YOUR_SHEETS_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSuixWm-kjOO0SXQLkzHPBKxb0mUIfYP3PTIwHl2WISBD4Xp1tHJ5yaXBq7x22C3_14IcEjTByKzuZ1/pub?output=csv";
 const USE_DEMO = false;  // Set to false because you have a real sheet now
 // DEBUG CODE - Add this line
 console.log("USE_DEMO is set to:", USE_DEMO);
